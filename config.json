@@ -1,6 +1,6 @@
 {
   "mongodb": {
-    "uri": "mongodb+srv://amar:amar123@cluster0.rle5i.mongodb.net/nodedbms?retryWrites=true&w=majority&appName=Cluster0"
+    "uri": "mongodb+srv://amar:amar1234@cluster0.rle5i.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
   },
   "jwtSecret": "my-secret-key"
 }
