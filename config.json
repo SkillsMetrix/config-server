@@ -1,6 +1,6 @@
 {
   "mongodb": {
-    "uri": "mongodb://localhost:27017/nodems"
+    "uri": "mongodb+srv://admin:admin123@cluster0.rle5i.mongodb.net/cmsdb?retryWrites=true&w=majority&appName=Cluster0"
   },
   "jwtSecret": "my-secret-key"
 }
